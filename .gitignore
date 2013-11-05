@@ -10,3 +10,37 @@
 *.rsc
 *.lk
 *.int
+code/__DEFINES.dm
+code/datums/hud.dm
+code/datums/limbs.dm
+code/game/machinery/computer/hologram.dm
+code/game/machinery/computer/prisonshuttle.dm
+code/game/objects/items/tk_grab.dm
+code/game/supplyshuttle.dm
+code/global.dm
+code/modules/admin/ToRban.dm
+code/modules/events/bluespaceanomaly.dm
+code/modules/events/energetic_flux.dm
+code/modules/events/gravitational_anomaly.dm
+code/modules/mob/dead/observer/hud.dm
+code/modules/mob/living/blob/blob.dm
+code/modules/mob/living/carbon/alien/humanoid/hud.dm
+code/modules/mob/living/carbon/alien/larva/hud.dm
+code/modules/mob/living/carbon/brain/hud.dm
+code/modules/mob/living/carbon/human/hud.dm
+code/modules/mob/living/carbon/monkey/hud.dm
+code/modules/mob/living/silicon/ai/hud.dm
+code/modules/mob/living/silicon/robot/hud.dm
+code/modules/mob/new_player/hud.dm
+code/modules/mob/screen.dm
+code/modules/reagents/reagent_containers/food/drinks/jar.dm
+code/names.dm
+code/stylesheet.dm
+data/investigate/singulo.html
+data/investigate/wires.html
+data/mode.txt
+html/browser/cryo.css
+html/browser/sleeper.css
+maps/MetaStation v27G-II.dmm
+maps/RandomZLevels/arcticwaste.dmm
+maps/backup/MetaStation v27G-II.dmm
